@@ -1,0 +1,15 @@
+artifact_uri: file:///home/jainabhi/ML/project-1-master-1/mlruns/0/9fb19b41c6e2440b8107c4a21b745b96/artifacts
+end_time: 1731512222179
+entry_point_name: ''
+experiment_id: '0'
+lifecycle_stage: active
+run_id: 9fb19b41c6e2440b8107c4a21b745b96
+run_name: angry-fish-779
+run_uuid: 9fb19b41c6e2440b8107c4a21b745b96
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1731512222173
+status: 3
+tags: []
+user_id: jainabhi

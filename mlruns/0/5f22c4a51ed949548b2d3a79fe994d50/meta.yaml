@@ -1,0 +1,15 @@
+artifact_uri: file:///home/jainabhi/ML/project-1-master-1/mlruns/0/5f22c4a51ed949548b2d3a79fe994d50/artifacts
+end_time: 1731512352545
+entry_point_name: ''
+experiment_id: '0'
+lifecycle_stage: active
+run_id: 5f22c4a51ed949548b2d3a79fe994d50
+run_name: amazing-vole-431
+run_uuid: 5f22c4a51ed949548b2d3a79fe994d50
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1731512350425
+status: 3
+tags: []
+user_id: jainabhi

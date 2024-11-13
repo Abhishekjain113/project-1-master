@@ -12,3 +12,5 @@ joblib
 types-pyYAML
 Flask
 flask-cors
+  # it may not be necessary but try if distutils is required
+setuptools==49.6.0  # if you are trying to avoid the distutils issue

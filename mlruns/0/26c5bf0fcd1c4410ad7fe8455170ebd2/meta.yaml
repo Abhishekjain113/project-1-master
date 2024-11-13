@@ -1,0 +1,15 @@
+artifact_uri: file:///home/jainabhi/ML/project-1-master-1/mlruns/0/26c5bf0fcd1c4410ad7fe8455170ebd2/artifacts
+end_time: 1731511831915
+entry_point_name: ''
+experiment_id: '0'
+lifecycle_stage: active
+run_id: 26c5bf0fcd1c4410ad7fe8455170ebd2
+run_name: legendary-asp-626
+run_uuid: 26c5bf0fcd1c4410ad7fe8455170ebd2
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1731511831908
+status: 3
+tags: []
+user_id: jainabhi

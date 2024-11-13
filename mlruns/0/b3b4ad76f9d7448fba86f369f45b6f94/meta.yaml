@@ -1,0 +1,15 @@
+artifact_uri: file:///home/jainabhi/ML/project-1-master-1/mlruns/0/b3b4ad76f9d7448fba86f369f45b6f94/artifacts
+end_time: 1731512350423
+entry_point_name: ''
+experiment_id: '0'
+lifecycle_stage: active
+run_id: b3b4ad76f9d7448fba86f369f45b6f94
+run_name: painted-whale-340
+run_uuid: b3b4ad76f9d7448fba86f369f45b6f94
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1731512350418
+status: 3
+tags: []
+user_id: jainabhi

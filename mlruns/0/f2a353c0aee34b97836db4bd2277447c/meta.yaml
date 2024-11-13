@@ -1,0 +1,15 @@
+artifact_uri: file:///home/jainabhi/ML/project-1-master-1/mlruns/0/f2a353c0aee34b97836db4bd2277447c/artifacts
+end_time: 1731510668470
+entry_point_name: ''
+experiment_id: '0'
+lifecycle_stage: active
+run_id: f2a353c0aee34b97836db4bd2277447c
+run_name: trusting-flea-464
+run_uuid: f2a353c0aee34b97836db4bd2277447c
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1731510668462
+status: 3
+tags: []
+user_id: jainabhi

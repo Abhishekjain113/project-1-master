@@ -32,10 +32,15 @@ def create_directories(path_to_dir:list,verbose=True):
             logger.info(f'created directory at: {path}')
 
 @ensure_annotations
-def save_json(path:Path,data:dict):
-    with open(path,'w') as f:
-        json.dump(data,f,indent=4)
-    logger.info(f'json file saved at: {path}')
+def save_json(path: Path, data: dict):
+    # Ensure the directory exists before saving the file
+    directory = os.path.dirname(path)
+    if not os.path.exists(directory):
+        os.makedirs(directory, exist_ok=True)  # Create the directory if it doesn't exist
+    
+    # Save the data to the JSON file
+    with open(path, 'w') as f:
+        json.dump(data, f, indent=4)
 
 @ensure_annotations
 def load_json(path:Path)->ConfigBox:

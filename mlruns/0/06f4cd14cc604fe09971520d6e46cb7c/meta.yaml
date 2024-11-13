@@ -1,0 +1,15 @@
+artifact_uri: file:///home/jainabhi/ML/project-1-master-1/mlruns/0/06f4cd14cc604fe09971520d6e46cb7c/artifacts
+end_time: 1731511831923
+entry_point_name: ''
+experiment_id: '0'
+lifecycle_stage: active
+run_id: 06f4cd14cc604fe09971520d6e46cb7c
+run_name: dazzling-hog-869
+run_uuid: 06f4cd14cc604fe09971520d6e46cb7c
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1731511831916
+status: 4
+tags: []
+user_id: jainabhi

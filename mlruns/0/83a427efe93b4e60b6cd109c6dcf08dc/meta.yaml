@@ -1,0 +1,15 @@
+artifact_uri: file:///home/jainabhi/ML/project-1-master-1/mlruns/0/83a427efe93b4e60b6cd109c6dcf08dc/artifacts
+end_time: 1731510892134
+entry_point_name: ''
+experiment_id: '0'
+lifecycle_stage: active
+run_id: 83a427efe93b4e60b6cd109c6dcf08dc
+run_name: awesome-stork-478
+run_uuid: 83a427efe93b4e60b6cd109c6dcf08dc
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1731510892128
+status: 4
+tags: []
+user_id: jainabhi

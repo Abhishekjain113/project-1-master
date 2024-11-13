@@ -1,0 +1,15 @@
+artifact_uri: file:///home/jainabhi/ML/project-1-master-1/mlruns/0/92b30a1a7dcd4f9086ee4854a66f684e/artifacts
+end_time: 1731512224421
+entry_point_name: ''
+experiment_id: '0'
+lifecycle_stage: active
+run_id: 92b30a1a7dcd4f9086ee4854a66f684e
+run_name: calm-deer-919
+run_uuid: 92b30a1a7dcd4f9086ee4854a66f684e
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1731512222181
+status: 3
+tags: []
+user_id: jainabhi

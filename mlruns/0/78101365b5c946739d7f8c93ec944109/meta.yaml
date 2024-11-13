@@ -1,0 +1,15 @@
+artifact_uri: file:///home/jainabhi/ML/project-1-master-1/mlruns/0/78101365b5c946739d7f8c93ec944109/artifacts
+end_time: 1731512005501
+entry_point_name: ''
+experiment_id: '0'
+lifecycle_stage: active
+run_id: 78101365b5c946739d7f8c93ec944109
+run_name: efficient-owl-636
+run_uuid: 78101365b5c946739d7f8c93ec944109
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1731512005493
+status: 3
+tags: []
+user_id: jainabhi

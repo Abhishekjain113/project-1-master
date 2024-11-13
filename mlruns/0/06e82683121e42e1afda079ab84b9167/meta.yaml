@@ -1,0 +1,15 @@
+artifact_uri: file:///home/jainabhi/ML/project-1-master-1/mlruns/0/06e82683121e42e1afda079ab84b9167/artifacts
+end_time: 1731511731603
+entry_point_name: ''
+experiment_id: '0'
+lifecycle_stage: active
+run_id: 06e82683121e42e1afda079ab84b9167
+run_name: rebellious-croc-277
+run_uuid: 06e82683121e42e1afda079ab84b9167
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1731511731596
+status: 4
+tags: []
+user_id: jainabhi
